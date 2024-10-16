@@ -5,9 +5,12 @@ The Food Order App backend provides all the necessary functionalities to manage 
 **Features**
 
 Vendor management: Vendors can register, log in, and manage their food items (add, edit, delete).
+
 Customer management: Customers can register, log in, browse food items, place orders, and track their order status.
+
 Order management: Customers can place orders, which are then handled by vendors.
 Authentication & Authorization: Secure authentication for both vendors and customers using JWT.
+
 Database: MongoDB is used to store data for users, products, and orders.
 
 **Technologies Used**
