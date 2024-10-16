@@ -16,8 +16,13 @@ Database: MongoDB is used to store data for users, products, and orders.
 **Technologies Used**
 
 TypeScript: Strongly typed JavaScript for robust code.
+
 Node.js: Server-side runtime environment.
+
 Express.js: Web framework for building the API.
+
 MongoDB: NoSQL database for storing user, product, and order data.
+
 Mongoose: Object Data Modeling (ODM) library for MongoDB.
+
 JWT (JSON Web Tokens): For secure authentication.
